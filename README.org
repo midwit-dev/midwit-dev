@@ -1,1 +1,4 @@
 #+title: The Midwit Developer
+
+- Website: https://www.midwit.dev/
+- X: [[https://x.com/midwit_dev]]
